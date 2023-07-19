@@ -1,0 +1,22 @@
+body {
+    padding-top: 30px;
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 600px;
+    background-color: aqua;
+}
+
+#todoInput {
+    margin-top: 30px;
+}
+
+.button {
+    height: 30px;
+    width: 130px;
+}
+
+#todoList {
+    list-style: none;
+    text-align: left;
+}
